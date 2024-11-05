@@ -86,8 +86,6 @@ const TodoList = () => {
         content = <p className="">{error.error || "Failed to load todos"}</p>;
     }
 
-    console.log(todos)
-
     return (
         <section className="p-10 space-y-6 w-full max-w-3xl mx-auto">
             <h1 className="text-2xl font-semibold">Todo List</h1>
