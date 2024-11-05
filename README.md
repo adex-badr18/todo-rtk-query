@@ -1,8 +1,15 @@
-# React + Vite
+# Todo App With RTK Query
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project was developed to follow the RTK Query Youtube course by Dave Gray. It features CRUD (Create, Read, Update, and Delete) operations on todo items.
 
-Currently, two official plugins are available:
+## Tools
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React
+- Redux Toolkit
+- Tailwind CSS
+- Fontawesome
+- json-server
+
+## References
+
+- [React Redux Full Course for Beginners | Redux Toolkit Complete Tutorial by Dave Gray](https://www.youtube.com/watch?v=NqzdVN2tyvQ)
